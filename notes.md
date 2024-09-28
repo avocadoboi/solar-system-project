@@ -60,3 +60,6 @@ They study three different classes of ion species; light, medium and heavy. In t
 
 The results of the report might be slightly inaccurate since the gyroradius of the ions is large meaning the MHD model might exclude some observed details.
 
+## Titan’s interaction with the Saturnian magnetosphere -- Leonardo H. Regoli (2016)
+
+
