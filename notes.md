@@ -30,9 +30,16 @@ If you are unsure about a word used in the sources and find out what it means th
 
 # Sources
 ## Encyclopedia of the solar system, 3ed -- Tilman Spohn et al (2014)
-Chapter 7 is about planetary magnetospheres and section 6 in the chapter is about interactions with moons.
+Chapter 7 is about planetary magnetospheres and section 6 in the chapter is about interactions with moons. Chapter 6 is about magnetic field generation (dynamo). This book can provide explanations for concepts that are assumed to be familiar to the reader in published articles.
 
 A magnetosphere is a region around a body in space which is partially shielded from external plasma flow by its own magnetic field exerting magnetic pressure against the flow. However, even bodies with no intrinsic magnetic field can form cavities in the plasma flow which have properties that are similar to true magnetospheres. The magnetopause is the surface defining the boundary of the magnetosphere. The term magnetosphere was originally defined as a region above the Earth's ionosphere, but the term has since expanded to include similar phenomena around other bodies in space, including moons. 
+
+Some bodies in the solar systems lack a substantial intrinsic magnetic field. Among these are Mars, Venus, and all moons except the Jovian moon Ganymede. If the body has a conductive interior or an ionosphere, then currents are induced that create forces that oppose the incoming external plasma flow (solar wind or magnetospheric plasma). This results in an induced magnetosphere around the body.
+
+In section 2.3 the newly ionized gases emitted from comets are referred to as "pickup ions". These are "swept up" by the solar wind, transferring energy from the wind to the pickup ions.
+
+Most of the plasma in planetary magnetospheres comes from the sun, and some comes from particles in the ionosphere which have gained enough energy to escape. The plasma in the ionosphere is generally cold in comparison to the magnetosphere and has a similar composition to the planet's atmosphere.
+
 ## Fundamental planetary science -- Jack J. Lissauer & Imke de Pater (2019)
 A planet or moon that has an ionosphere will form an induced magnetosphere if charged particles are flowing past it (section 7.2.4). This induced magnetosphere shields the body from the external magnetic field. Titan in Saturn's magnetosphere is an example of this.
 
@@ -77,3 +84,5 @@ A "ring current" is created in Saturn's magnetosphere from the opposing (gravita
 
 # Other notes
 Saturn has a day of about $10.5\text{ hr}$ and an equatorial radius of about $58 232\text{ km}$. This implies a velocity of about $2\pi R/T\approx 9.7\text{ km/s}$ at the equator, compared to $464\text{ m/s}$ at Earth's equator. For this reason, Saturn's plasma sheet is spread out over all longitudes while Earth's plasma sheet only exists in the magnetotail on the night side.
+
+Titan has no intrinsic magnetic field and is the only moon in the solar system with an atmosphere. Its interaction with the surrounding plasma is therefore unlike that of other moons and more similar to that of Venus and Mars.
