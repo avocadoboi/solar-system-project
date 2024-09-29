@@ -9,11 +9,13 @@ I guess there are variations in the magnetic field (making it deviate from the s
 
 * What exactly are the mechanisms that make Saturn's magnetospheric plasma corotate with the planet?
 
-Charged particles gyrate about magnetic field lines, but in reality there are no "lines", only a continuous vector field. But if the magnetic field varies in magnitude in the angular direction then this might carry the particles somehow, via grad-B drifts maybe. Gravitational drifts are too small (electrons drift about 56 micrometres per second in the orbital direction at Titan's orbit, positive ions drift *against* the orbit)
+Charged particles gyrate about magnetic field lines, but in reality there are no "lines", only a continuous vector field. But if the magnetic field varies in magnitude in the angular direction then this might carry the particles somehow, via grad-B drifts maybe. Gravitational drifts are too small (electrons drift about 56 micrometres per second in the orbital direction at Titan's orbit, positive ions drift *against* the orbit). Blanc et al (2004) and Regoli (2016) explain that the co-rotation is due to friction in the atmosphere and ionosphere of Saturn. But the angular speed of neutral particles decreases slowly with distance while the angular speed of ions increases (as expected for co-rotation, $v_\theta=\Omega^2r$) so my guess is that the friction is higher for ions which interact via coloumb forces as well (within a Debye length each).
 
 * How is Titan's induced magnetosphere formed?
 
 * What are pickup ions?
+
+* What is mass loading?
 
 
 # Terminology
@@ -22,6 +24,9 @@ If you are unsure about a word used in the sources and find out what it means th
 * The **ram** side of an object moving in a surrounding plasma or gas is the side where the particles are colliding with the object, and the **wake** side is the opposite side where a vacuum can form at high enough relative speeds.
 * The **nose** of a magnetosphere is the region facing the external plasma flow, where the distance from the body to its magnetopause is the smallest. This is on the opposite side of the **magnetotail**.
 * **Kronian** means "relating to Saturn" and **Jovian** means "relating to Jupiter".
+* **cusps** are regions in the magnetosphere of a body near its magnetic poles where external charged particles can enter into its upper atmosphere.
+* The **plasma sheet** is a region near the equator where the plasma density is high. In Earth's case it is located in the magnetotail while for Saturn it is found at all longitudes.
+* **lobes** are the regions  outside the plasma sheet where the plasma density is lower. There is a north lobe and south lobe.
 
 # Sources
 ## Encyclopedia of the solar system, 3ed -- Tilman Spohn et al (2014)
@@ -58,8 +63,17 @@ Variations in the solar wind cause compression and expansion of Saturn's magneto
 
 They study three different classes of ion species; light, medium and heavy. In the results they present plots of number density of these different species as well as plots of the magnetic field and plasma speed around Titan. These are nice images to include in the report.
 
-The results of the report might be slightly inaccurate since the gyroradius of the ions is large meaning the MHD model might exclude some observed details.
+The results of the paper might be slightly inaccurate since the gyroradius of the ions is large meaning the MHD model might exclude some observed details.
 
+## Titan interaction with Saturn's magnetosphere: Voyager 1 results revisited -- E. C. Sittler Jr., et al (2005)
+In this paper the authors present results from the re-analysises of the plasma measurement data from Titan flyby by Voyager 1 in 1980, using new (at the time) models.
+
+## Titan's exosphere and its interaction with Saturn's magnetosphere -- Iannis Dandouras, et al (2008)
 ## Titan’s interaction with the Saturnian magnetosphere -- Leonardo H. Regoli (2016)
+PHD thesis. I (björn) think we use this as a source sparingly if at all in the report and instead go to primary sources when possible. But it is useful for us to learn and get a picture of the subject.
+
+A "ring current" is created in Saturn's magnetosphere from the opposing (gravitational, I assume) drifts of negatively and positively charged particles in the plasma. This is confined to the current sheet which is concentrated at the equator due to the centrifugal forces in the rotating noninertial reference frame.
 
 
+# Other notes
+Saturn has a day of about $10.5\text{ hr}$ and an equatorial radius of about $58 232\text{ km}$. This implies a velocity of about $2\pi R/T\approx 9.7\text{ km/s}$ at the equator, compared to $464\text{ m/s}$ at Earth's equator. For this reason, Saturn's plasma sheet is spread out over all longitudes while Earth's plasma sheet only exists in the magnetotail on the night side.
