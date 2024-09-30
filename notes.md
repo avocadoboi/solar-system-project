@@ -81,6 +81,25 @@ PHD thesis. I (björn) think we use this as a source sparingly if at all in the 
 
 A "ring current" is created in Saturn's magnetosphere from the opposing (gravitational, I assume) drifts of negatively and positively charged particles in the plasma. This is confined to the current sheet which is concentrated at the equator due to the centrifugal forces in the rotating noninertial reference frame.
 
+## Discrete classification and electron energy spectra of Titan's varied magnetospheric environment -- A. M. Rymer et al (2009)
+This study classifies the magnetospheric environment on Titan into four different categories based on electron thermal data from 54 encounters on titan by Cassini.
+
+Plasma sheet:
+
+The plasmasheet contains high energy electrons whose peak enegy is on the oder of 100s eV. The electron density is also high in this region with fluxes at $10^6cm^{-2}s^{-1}sr^{-1}$. This was the most common environment encountered with 19 encounters.
+
+Lobe-like:
+
+This class also has high energy electrons, with peak energies similar to or higher than that of the plasmasheath. The electron density is however smaller with fluxes an order of magnitude less. 8 encounters with this environment was made.
+
+Magnetosheath:
+
+This region is encountered outside of the magnetopause, and thus consists of plasma from the solar wind. In this region electrons are of lower energy, but higher density than the previous two classes. 2 encounters with this environment was made.
+
+Bi-modal:
+
+This classification is highly variable, containg two seperate electron populations, hence bi-modal. One is similar in energy to the plasma sheet or Lobe-like category. The other population is less energetic but more dense and consists of so called local pick-up population that comes from a neutral cloud, where produced electrons are quickly picked up by the co-rotation gaining energy in the order of tenths of eV. The electron energy seen is higher though, which is thought to be explained by these electrons originating from photoionization of larger ions where the energy released is on the order of 10eV. These heavy ions are believed to be water groups, which originate in the inner magnetosphere of Saturn, from the moon Enceladus and migrates outwards to Titan. 5 encounters of this environment was made.
+
 
 # Other notes
 Saturn has a day of about $10.5\text{ hr}$ and an equatorial radius of about $58 232\text{ km}$. This implies a velocity of about $2\pi R/T\approx 9.7\text{ km/s}$ at the equator, compared to $464\text{ m/s}$ at Earth's equator. For this reason, Saturn's plasma sheet is spread out over all longitudes while Earth's plasma sheet only exists in the magnetotail on the night side.
