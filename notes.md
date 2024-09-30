@@ -26,19 +26,50 @@ If you are unsure about a word used in the sources and find out what it means th
 * **Kronian** means "relating to Saturn" and **Jovian** means "relating to Jupiter".
 * **cusps** are regions in the magnetosphere of a body near its magnetic poles where external charged particles can enter into its upper atmosphere.
 * The **plasma sheet** is a region near the equator where the plasma density is high. In Earth's case it is located in the magnetotail while for Saturn it is found at all longitudes.
-* **lobes** are the regions  outside the plasma sheet where the plasma density is lower. There is a north lobe and south lobe.
+* **lobes** are the regions outside the plasma sheet where the plasma density is lower. There is a north lobe and south lobe.
+* **substorms** are sudden (tens of minutes) decreases in meridional magnetic field strength at the surface of a planet, at latitudes of $65\degree$-$75\degree$ for Earth. These occur several times a day at Earth and are associated with aurora and particle precipitation. (Spohn et al, 2014, section 7.5).
 
 # Sources
 ## Encyclopedia of the solar system, 3ed -- Tilman Spohn et al (2014)
 Chapter 7 is about planetary magnetospheres and section 6 in the chapter is about interactions with moons. Chapter 6 is about magnetic field generation (dynamo). This book can provide explanations for concepts that are assumed to be familiar to the reader in published articles.
 
+**Section 6.5.4**
+
+Saturn's magnetic field multipole expansion is dominated by its dipole term, and is unique in that it only consists of axisymmetric terms (as far as has been observed). 
+
+**Section 7.1**
+
 A magnetosphere is a region around a body in space which is partially shielded from external plasma flow by its own magnetic field exerting magnetic pressure against the flow. However, even bodies with no intrinsic magnetic field can form cavities in the plasma flow which have properties that are similar to true magnetospheres. The magnetopause is the surface defining the boundary of the magnetosphere. The term magnetosphere was originally defined as a region above the Earth's ionosphere, but the term has since expanded to include similar phenomena around other bodies in space, including moons. 
 
 Some bodies in the solar systems lack a substantial intrinsic magnetic field. Among these are Mars, Venus, and all moons except the Jovian moon Ganymede. If the body has a conductive interior or an ionosphere, then currents are induced that create forces that oppose the incoming external plasma flow (solar wind or magnetospheric plasma). This results in an induced magnetosphere around the body.
 
+**Section 7.2.3**
+
 In section 2.3 the newly ionized gases emitted from comets are referred to as "pickup ions". These are "swept up" by the solar wind, transferring energy from the wind to the pickup ions.
 
+**Section 7.4.1**
+
 Most of the plasma in planetary magnetospheres comes from the sun, and some comes from particles in the ionosphere which have gained enough energy to escape. The plasma in the ionosphere is generally cold in comparison to the magnetosphere and has a similar composition to the planet's atmosphere.
+
+**Section 7.4.2 Energetic particles**
+
+All magnetospheres in the solar system contain populations of highly energetic particles which deviate from the thermal equilibrium Maxwell-Boltzmann distribution function. The observed fluxes of such particles are too high to be solely accounted for by the solar wind. In the cases of the gas giants, some particles are accelerated to high energies by planetary rotation. These high-energy particles also create strong currents around the equator which in turn modify the magnetic field. The significant populations of energetic particles in the gas giants' magnetospheres result in an expanded magnetopause due to the increased pressure. Energetic particles at the gas giants can be lost via absorption by their rings and satellites.
+
+**Section 7.5 Dynamics**
+
+The Cassini spacecraft which was in orbit around Saturn for 13 years between 2004 and 2017 \parencite{cassini-2019} (it ended its mission by crashing into Saturn's atmosphere in 2017, the year after this edition of the book was published) has provided much more detailed observations of the dynamics of the Kronian magnetosphere than those from the Pioneer 10 and Voyager 1 and 2 spacecraft which only briefly passed through it. 
+
+Saturn rotates at approximately the same rate as its magnetic field, and this rotation period changes during Saturn's orbit around the sun.
+
+Cassini was equipped with an instrument that took pictures of particle fluxes in the magnetosphere. This detector can be likened to a telescope which collects neutral particles instead of photons. High-energy neutrals result from collisions with energetic ions and therefore the observations provide information about the magnetospheric plasma.
+
+**Section 7.6 Interactions with moons**
+
+Titan is a weaker plasma source than the inner moon Enceladus which emits large amounts of vapor that is quickly ionized, forming a torus of plasma around Saturn. 
+
+The magnetic field around Titan changes rapidly only very close to its surface since it has no intrinsic magnetic field. In contrast to the planetary magnetospheres, the induced magnetosphere of Titan has no bow shock since the oncoming plasma flow is slower than both the Alfvén speed and the sound speed. Instead Alfvén wings form in front of the moon.
+
+** Section 38.1.2 Titan's exploration
 
 ## Fundamental planetary science -- Jack J. Lissauer & Imke de Pater (2019)
 A planet or moon that has an ionosphere will form an induced magnetosphere if charged particles are flowing past it (section 7.2.4). This induced magnetosphere shields the body from the external magnetic field. Titan in Saturn's magnetosphere is an example of this.
@@ -66,7 +97,7 @@ Titan forms a torus of ions (mainly $\text{N}^+$, $\text{N}_2^+$, $\text{H}_2\te
 ## The interaction between the magnetosphere of Saturn and Titan's ionosphere -- Andrew F. Nagy, et al (2001)
 This paper presents a 3D MHD simulation of the interaction between Saturn's magnetosphere and Titan's ionosphere. Before the Cassini flybys. 
 
-Variations in the solar wind cause compression and expansion of Saturn's magnetosphere, meaning Titan can sometimes be outside the magnetosphere although it has not been observed yet. When it is outside the magnetosphere, Titan's ionosphere interacts with the solar wind directly leading to very different conditions.
+Variations in the solar wind cause compression and expansion of Saturn's magnetosphere, meaning Titan can sometimes be outside the magnetosphere although it has not been observed yet (as of this paper! It has been observed to be in the magnetosheath and in the solar wind by the Cassini spacecraft, see WHERE? I don't remember where I read this...). When it is outside the magnetosphere, Titan's ionosphere interacts with the solar wind directly leading to very different conditions.
 
 They study three different classes of ion species; light, medium and heavy. In the results they present plots of number density of these different species as well as plots of the magnetic field and plasma speed around Titan. These are nice images to include in the report.
 
@@ -101,6 +132,9 @@ Bi-modal:
 This classification is highly variable, containg two seperate electron populations, hence bi-modal. One is similar in energy to the plasma sheet or Lobe-like category. The other population is less energetic but more dense and consists of so called local pick-up population that comes from a neutral cloud, where produced electrons are quickly picked up by the co-rotation gaining energy in the order of tenths of eV. The electron energy seen is higher though, which is thought to be explained by these electrons originating from photoionization of larger ions where the energy released is on the order of 10eV. These heavy ions are believed to be water groups, which originate in the inner magnetosphere of Saturn, from the moon Enceladus and migrates outwards to Titan. 5 encounters of this environment was made.
 ## An empirical model for the plasma environment along Titan’s orbit based on Cassini plasma observations.  H. T. Smith and A. M. Rymer. (2014)
 Continuation of pevious rymer paper. This paper further examines more encounters by cassini establishing that 45% of encounters are plasma sheath, 38% are lobe-like, 6% magnetosheath. The plasma envionment along Titans obit, when the planet is not cuently pesent is also examined, here 55% of encountes are plasma sheath, 24% are lobe like and 12% are magnetosheath. This suggest that the precence of Titan lowers the probablity of expeiencing the magnetosheath, meaning that Titan extends the magnetopause of Saturn outwards. This conclution cannot however yet be drawn due to, acording to the authors,possible sampling bias that needs to be analysed more rigouresly.   
+
+## Alfvén Wing-Like Structures in Titan's Magnetotail During T122-T126 Flybys -- Niklas J. T. Edberg and Jan-Erik Wahlund and Erik Vigren (2024-06-09)
+
 
 # Other notes
 Saturn has a day of about $10.5\text{ hr}$ and an equatorial radius of about $58 232\text{ km}$. This implies a velocity of about $2\pi R/T\approx 9.7\text{ km/s}$ at the equator, compared to $464\text{ m/s}$ at Earth's equator. For this reason, Saturn's plasma sheet is spread out over all longitudes while Earth's plasma sheet only exists in the magnetotail on the night side.
