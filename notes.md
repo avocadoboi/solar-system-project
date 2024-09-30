@@ -69,7 +69,7 @@ Titan is a weaker plasma source than the inner moon Enceladus which emits large 
 
 The magnetic field around Titan changes rapidly only very close to its surface since it has no intrinsic magnetic field. In contrast to the planetary magnetospheres, the induced magnetosphere of Titan has no bow shock since the oncoming plasma flow is slower than both the Alfvén speed and the sound speed. Instead Alfvén wings form in front of the moon.
 
-** Section 38.1.2 Titan's exploration
+**Section 38.1.2 Titan's exploration**
 
 ## Fundamental planetary science -- Jack J. Lissauer & Imke de Pater (2019)
 A planet or moon that has an ionosphere will form an induced magnetosphere if charged particles are flowing past it (section 7.2.4). This induced magnetosphere shields the body from the external magnetic field. Titan in Saturn's magnetosphere is an example of this.
