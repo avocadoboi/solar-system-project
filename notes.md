@@ -101,12 +101,19 @@ Variations in the solar wind cause compression and expansion of Saturn's magneto
 
 They study three different classes of ion species; light, medium and heavy. In the results they present plots of number density of these different species as well as plots of the magnetic field and plasma speed around Titan. These are nice images to include in the report.
 
+Titan's ionosphere is likely caused by extreme ultraviolet (EUV) radiation, photoelectrons, magnetospheric electrons, cosmic rays and meteorites. 
+
+Mass loading is due to photoionization and electron impact ionization. 
+
+Solar wind causes Saturn's magnetosphere to compress or expand, this makes it possible for Titan, havning an orbit at 20 Saturn radii, to either be inside or outside of Saturn's magnetosphere. While Titan is outside of Saturn's magnetosphere, it is directly influenced by solar wind.  
+
 The results of the paper might be slightly inaccurate since the gyroradius of the ions is large meaning the MHD model might exclude some observed details.
 
 ## Titan interaction with Saturn's magnetosphere: Voyager 1 results revisited -- E. C. Sittler Jr., et al (2005)
 In this paper the authors present results from the re-analysises of the plasma measurement data from Titan flyby by Voyager 1 in 1980, using new (at the time) models.
 
 ## Titan's exosphere and its interaction with Saturn's magnetosphere -- Iannis Dandouras, et al (2008)
+
 ## Titan’s interaction with the Saturnian magnetosphere -- Leonardo H. Regoli (2016)
 PHD thesis. I (björn) think we use this as a source sparingly if at all in the report and instead go to primary sources when possible. But it is useful for us to learn and get a picture of the subject.
 
@@ -140,3 +147,14 @@ Continuation of pevious rymer paper. This paper further examines more encounters
 Saturn has a day of about $10.5\text{ hr}$ and an equatorial radius of about $58 232\text{ km}$. This implies a velocity of about $2\pi R/T\approx 9.7\text{ km/s}$ at the equator, compared to $464\text{ m/s}$ at Earth's equator. For this reason, Saturn's plasma sheet is spread out over all longitudes while Earth's plasma sheet only exists in the magnetotail on the night side.
 
 Titan has no intrinsic magnetic field and is the only moon in the solar system with an atmosphere. Its interaction with the surrounding plasma is therefore unlike that of other moons and more similar to that of Venus and Mars.
+
+
+# Missions
+Cassini mission 
+Voyager 1 and 2
+Huygens lander
+
+# About Titan 
+Titan is Saturn’s largest moon with a radius of 2575 km and is the only moon in the solar system with an atmosphere thicker than Earths, consisting mainly of nitrogen and a smaller amount of methane. (Fundamental planetary science, 10.3.1) 
+
+What sets it apart from other moons in the solar system is the combination of a dense atmosphere and the lack of a internal megnetic field. 
