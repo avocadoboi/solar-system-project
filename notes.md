@@ -28,7 +28,7 @@ If you are unsure about a word used in the sources and find out what it means th
 * The **plasma sheet** is a region near the equator where the plasma density is high. In Earth's case it is located in the magnetotail while for Saturn it is found at all longitudes.
 * **lobes** are the regions outside the plasma sheet where the plasma density is lower. There is a north lobe and south lobe.
 * **substorms** are sudden (tens of minutes) decreases in meridional magnetic field strength at the surface of a planet, at latitudes of $65\degree$-$75\degree$ for Earth. These occur several times a day at Earth and are associated with aurora and particle precipitation. (Spohn et al, 2014, section 7.5).
-* **charge-exchange** collisions are when an energetic ion and slow neutral atom collide and the energy is transferred to the neutral atom, resulting in energetic neutral atoms (**ENA**s) (Dandouras et al, 2008).
+* **charge-exchange** collisions are when an energetic ion with charge +1 and slow neutral atom collide and an electron is transferred to the ion, resulting in energetic neutral atoms (**ENA**s) with energies between about 10 keV to a few MeV (Dandouras et al, 2008).
 * The **exosphere** is the same as the upper atmosphere where there are almost no collisions and it is possible for particles to escape the gravitational field of the body (Dandouras et al, 2008).
 
 # Sources
@@ -113,11 +113,15 @@ The results of the paper might be slightly inaccurate since the gyroradius of th
 In this paper the authors present results from the re-analysises of the plasma measurement data from Titan flyby by Voyager 1 in 1980, using new (at the time) models.
 
 ## Titan's exosphere and its interaction with Saturn's magnetosphere -- Iannis Dandouras, et al (2008)
-This paper analyses the data from the magnetosphere imaging instrument (MIMI) and the ion and neutral mass spectrometer instrument on the Cassini spacecraft relating to Titan's exosphere and its interactions with Saturn's magnetosphere.
+This paper analyses the data relating to Titan's exosphere and its interactions with Saturn's magnetosphere from the magnetosphere imaging instrument (MIMI) and the ion and neutral mass spectrometer (INMS) on the Cassini spacecraft.
 
-Because Titan has no significant intrinsic magnetic field to deflect the oncoming plasma flow, the atmosphere interacts directly with it, giving rise to many complex phenomena. For example, energetic ions from Saturn's magnetosphere undergo charge-exchange collisions with slow neutral atoms in Titan's upper atmosphere and produce ENAs. These ENAs are imaged by the MIMI on Cassini from afar, while the ion and neutral mass spectrometer instrument does measurements directly inside the exosphere. The reason why neutral atoms are imaged as a proxy for energetic charged particles is because neutral particles are not affected by electromagnetic fields and follow paths similar to those that photons would take.
+Titan is the second largest moon in the solar system and is the only moon with an atmosphere as thick as Earth's. The Saturn Orbit Insertion occurred in July 2004 (and this is when Cassini started orbiting Saturn and making observations of it). The study of Titan was one of the primary objectives of the mission.
 
-Titan is the second largest moon in the solar system and is the only moon with an atmosphere as thick as Earth's. The Saturn Orbit Insertion occurred in July 2004 (and this is when Cassini started orbiting Saturn and making observations of it).
+Because Titan has no significant intrinsic magnetic field to deflect the oncoming plasma flow, the atmosphere interacts directly with it, giving rise to many complex phenomena. For example, energetic ions from Saturn's magnetosphere undergo charge-exchange collisions with slow neutral atoms in Titan's upper atmosphere and produce ENAs. These ENAs were imaged by the MIMI on Cassini from afar, while the ion and neutral mass spectrometer instrument performed measurements directly inside the exosphere. The reason why neutral atoms were imaged as a proxy for energetic charged particles is because neutral particles are not affected by electromagnetic fields and follow paths similar to those that photons would take. The reaction describing a charge-exchange collision is \ce{X+ + Y -> X_{ENA} + Y+}, where \ce{X+} is the energetic ion, \ce{Y} is the colliding cold neutral atom, \ce{X_{ENA}} is the resulting energetic neutral atom, and \ce{Y+} is the ionized particle.
+
+The article presents images from the MIMI showing ENA fluxes in Titan's exosphere, very cool.
+
+From the in-situ measurements by the INMS it has been deduced that the exobase is located at about 1425 km altitude and that it has a temperature of 149 K.
 
 ## Titan’s interaction with the Saturnian magnetosphere -- Leonardo H. Regoli (2016)
 PHD thesis. I (björn) think we use this as a source sparingly if at all in the report and instead go to primary sources when possible. But it is useful for us to learn and get a picture of the subject.
@@ -142,11 +146,14 @@ This region is encountered outside of the magnetopause, and thus consists of pla
 Bi-modal:
 
 This classification is highly variable, containg two seperate electron populations, hence bi-modal. One is similar in energy to the plasma sheet or Lobe-like category. The other population is less energetic but more dense and consists of so called local pick-up population that comes from a neutral cloud, where produced electrons are quickly picked up by the co-rotation gaining energy in the order of tenths of eV. The electron energy seen is higher though, which is thought to be explained by these electrons originating from photoionization of larger ions where the energy released is on the order of 10eV. These heavy ions are believed to be water groups, which originate in the inner magnetosphere of Saturn, from the moon Enceladus and migrates outwards to Titan. 5 encounters of this environment was made.
+
 ## An empirical model for the plasma environment along Titan’s orbit based on Cassini plasma observations.  H. T. Smith and A. M. Rymer. (2014)
 Continuation of pevious rymer paper. This paper further examines more encounters by cassini establishing that 45% of encounters are plasma sheath, 38% are lobe-like, 6% magnetosheath. The plasma envionment along Titans obit, when the planet is not cuently pesent is also examined, here 55% of encountes are plasma sheath, 24% are lobe like and 12% are magnetosheath. This suggest that the precence of Titan lowers the probablity of expeiencing the magnetosheath, meaning that Titan extends the magnetopause of Saturn outwards. This conclution cannot however yet be drawn due to, acording to the authors,possible sampling bias that needs to be analysed more rigouresly.   
 
 ## Alfvén Wing-Like Structures in Titan's Magnetotail During T122-T126 Flybys -- Niklas J. T. Edberg and Jan-Erik Wahlund and Erik Vigren (2024-06-09)
 
+## The induced magnetosphere of Titan -- Norman F. Ness et al (1982)
+## Effects of Saturn's magnetospheric dynamics on Titan's ionosphere -- N. J. T. Edberg et al (2015)
 
 # Other notes
 Saturn has a day of about $10.5\text{ hr}$ and an equatorial radius of about $58 232\text{ km}$. This implies a velocity of about $2\pi R/T\approx 9.7\text{ km/s}$ at the equator, compared to $464\text{ m/s}$ at Earth's equator. For this reason, Saturn's plasma sheet is spread out over all longitudes while Earth's plasma sheet only exists in the magnetotail on the night side.
