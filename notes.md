@@ -123,6 +123,12 @@ The article presents images from the MIMI showing ENA fluxes in Titan's exospher
 
 From the in-situ measurements by the INMS it has been deduced that the exobase is located at about 1425 km altitude and that it has a temperature of 149 K.
 
+The exosphere of Titan is not completely in thermal equilibrium, partially due to the input of energetic ions from Saturn's magnetosphere but also due to other mechanisms such as sputtering and photodissociation. This has been observed by several Cassini flybys at altitudes less than 2 Mm. The distribution functions for nitrogen and methane were found to be best described by kappa functions which are the sum of a maxwellian distribution and a power law at higher energies.
+
+Below an altitude of about 1 Mm above Titan's surface in its lower atmosphere, the collision frequency of particles is so high that most of the produced ENAs are absorbed, which results in a darker region in the ENA image of Titan's exosphere. The energy of the incoming energetic protons and oxygen ions from Saturn's magnetosphere is therefore deposited mostly in the dense lower atmosphere. There is a graph that shows calculated final energy of ENAs reaching the ENA imager as a function of altitude, where the energy drops off rapidly below 1 Mm altitude.
+
+Titan's lower atmosphere absorbs most of the energy of the energetic protons and oxygen ions from Saturn's magnetosphere that hit Titan.
+
 ## Titan’s interaction with the Saturnian magnetosphere -- Leonardo H. Regoli (2016)
 PHD thesis. I (björn) think we use this as a source sparingly if at all in the report and instead go to primary sources when possible. But it is useful for us to learn and get a picture of the subject.
 
