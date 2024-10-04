@@ -109,6 +109,8 @@ They study three different classes of ion species; light, medium and heavy. In t
 
 The results of the paper might be slightly inaccurate since the gyroradius of the ions is large meaning the MHD model might exclude some observed details.
 
+## Titan's ion exosphere observed from Voyager 1 -- Hartle, R. E., et al (1982)
+
 ## Titan interaction with Saturn's magnetosphere: Voyager 1 results revisited -- E. C. Sittler Jr., et al (2005)
 In this paper the authors present results from the re-analysises of the plasma measurement data from Titan flyby by Voyager 1 in 1980, using new (at the time) models.
 
@@ -157,7 +159,7 @@ This classification is highly variable, containg two seperate electron populatio
 Continuation of pevious rymer paper. This paper further examines more encounters by cassini establishing that 45% of encounters are plasma sheath, 38% are lobe-like, 6% magnetosheath. The plasma envionment along Titans obit, when the planet is not cuently pesent is also examined, here 55% of encountes are plasma sheath, 24% are lobe like and 12% are magnetosheath. This suggest that the precence of Titan lowers the probablity of expeiencing the magnetosheath, meaning that Titan extends the magnetopause of Saturn outwards. This conclution cannot however yet be drawn due to, acording to the authors,possible sampling bias that needs to be analysed more rigouresly.   
 
 ## Alfvén Wing-Like Structures in Titan's Magnetotail During T122-T126 Flybys -- Niklas J. T. Edberg and Jan-Erik Wahlund and Erik Vigren (2024-06-09)
-This paper uses data form the T122-T126 Cassini flybys of Titan to analyze its magnetotail structure. These specific flybys were chosen because they were very similar in their spatial coverage as well as their plasma environment and could therefore provide accurate information about the geometry of the magnetotail. The data from the flybys were transformed to the same reference frame aligned with Saturn's steady-state magnetic field in order to isolate the disturbances due to Titan and allow for direct comparison. The magnetotail was found to display variations over time and space. In two of the flybys (T123 and T124) an Alfvén wing-like structure was observed in the magnetic field around Titan. A neutral current sheet (??) in the magnetotail was also observed in the T122 flyby. 
+This paper uses data form the T122-T126 Cassini flybys of Titan to analyze its magnetotail structure. These specific flybys were chosen because they were very similar in their spatial coverage as well as their plasma environment and could therefore provide accurate information about the geometry of the magnetotail. The data from the flybys were transformed to the same reference frame aligned with Saturn's steady-state magnetic field in order to isolate the disturbances due to Titan and allow for direct comparison. The magnetotail was found to display variations over time and space. In two of the flybys (T123 and T124) an Alfvén wing-like structure was observed in the magnetic field around Titan. A bipoloar magnetotail with an embedded neutral current sheet (??) in the magnetotail was also observed in the T122 flyby, as has been observed earlier by the Voyager 1 flybys (Norman F. Ness et al, 1982). 
 
 ## The induced magnetosphere of Titan -- Norman F. Ness et al (1982)
 ## Effects of Saturn's magnetospheric dynamics on Titan's ionosphere -- N. J. T. Edberg et al (2015)
