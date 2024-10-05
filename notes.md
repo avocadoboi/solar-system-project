@@ -171,6 +171,7 @@ This study presents a similar conclution as smith (2014), about the precence of 
 This paper uses data form the T122-T126 Cassini flybys of Titan to analyze its magnetotail structure. These specific flybys were chosen because they were very similar in their spatial coverage as well as their plasma environment and could therefore provide accurate information about the geometry of the magnetotail. The data from the flybys were transformed to the same reference frame aligned with Saturn's steady-state magnetic field in order to isolate the disturbances due to Titan and allow for direct comparison. The magnetotail was found to display variations over time and space. In two of the flybys (T123 and T124) an Alfvén wing-like structure was observed in the magnetic field around Titan. A bipoloar magnetotail with an embedded neutral current sheet (??) in the magnetotail was also observed in the T122 flyby, as has been observed earlier by the Voyager 1 flybys (Norman F. Ness et al, 1982). 
 
 ## The induced magnetosphere of Titan -- Norman F. Ness et al (1982)
+
 ## Effects of Saturn's magnetospheric dynamics on Titan's ionosphere -- N. J. T. Edberg et al (2015)
 
 # Other notes
@@ -184,7 +185,23 @@ Cassini mission
 Voyager 1 and 2
 Huygens lander
 
+
+
+
+
 # About Titan 
+(From funamental planetary science)
 Titan is Saturn’s largest moon with a radius of 2575 km and is the only moon in the solar system with an atmosphere thicker than Earths, consisting mainly of nitrogen and a smaller amount of methane. (Fundamental planetary science, 10.3.1) 
 
 What sets it apart from other moons in the solar system is the combination of a dense atmosphere and the lack of a internal megnetic field. 
+
+Titan has no intrinsic magnetic field and is the only moon in the solar system with an atmosphere. Its interaction with the surrounding plasma is therefore unlike that of other moons and more similar to that of Venus and Mars.
+
+A planet or moon that has an ionosphere will form an induced magnetosphere if charged particles are flowing past it (section 7.2.4). This induced magnetosphere shields the body from the external magnetic field. Titan in Saturn's magnetosphere is an example of this.
+
+The interior of Saturn is fluid metallic hydrogen which is conductive (section 7.4.2). It is generally assumed that Saturn's magnetic field is produced by a process called "magnetohydrodynamic dynamo". Saturn's magnetic dipole moment is nearly exactly in the same direction as its angular velocity (geographic north and south poles coincide with the magnetic north and south poles) (section 8.2.3 and 7.3).
+
+Titan is the largest satellite at Saturn and is an icy moon with a radius of 2575 km and a density of 1880 kg/m^3. The moon was discovered in 1655 by Christiaan Huygens. The atmosphere of titan is very thick, with a surface pressure of 1.44 bar. It consists mostly of nigrogen and small amounts of methane.
+
+(From Titan's exosphere and its interaction with Saturn's magnetosphere -- Iannis Dandouras, et al (2008))
+Titan is the second largest moon in the solar system and is the only moon with an atmosphere as thick as Earth's. The Saturn Orbit Insertion occurred in July 2004 (and this is when Cassini started orbiting Saturn and making observations of it). The study of Titan was one of the primary objectives of the mission.
