@@ -28,6 +28,8 @@ If you are unsure about a word used in the sources and find out what it means th
 * The **plasma sheet** is a region near the equator where the plasma density is high. In Earth's case it is located in the magnetotail while for Saturn it is found at all longitudes.
 * **lobes** are the regions outside the plasma sheet where the plasma density is lower. There is a north lobe and south lobe.
 * **substorms** are sudden (tens of minutes) decreases in meridional magnetic field strength at the surface of a planet, at latitudes of $65\degree$-$75\degree$ for Earth. These occur several times a day at Earth and are associated with aurora and particle precipitation. (Spohn et al, 2014, section 7.5).
+* **charge-exchange** collisions are when an energetic ion and slow neutral atom collide and the energy is transferred to the neutral atom, resulting in energetic neutral atoms (**ENA**s) (Dandouras et al, 2008).
+* The **exosphere** is the same as the upper atmosphere where there are almost no collisions and it is possible for particles to escape the gravitational field of the body (Dandouras et al, 2008).
 
 # Sources
 ## Encyclopedia of the solar system, 3ed -- Tilman Spohn et al (2014)
@@ -61,7 +63,7 @@ The Cassini spacecraft which was in orbit around Saturn for 13 years between 200
 
 Saturn rotates at approximately the same rate as its magnetic field, and this rotation period changes during Saturn's orbit around the sun.
 
-Cassini was equipped with an instrument that took pictures of particle fluxes in the magnetosphere. This detector can be likened to a telescope which collects neutral particles instead of photons. High-energy neutrals result from collisions with energetic ions and therefore the observations provide information about the magnetospheric plasma.
+Cassini was equipped with an instrument that took pictures of particle fluxes in the magnetosphere (one of the three sensors of the magnetosphere imaging instrument (MIMI), Dandouras et al (2008)). This detector can be likened to a telescope which collects neutral particles instead of photons. High-energy neutrals result from collisions with energetic ions (charge-exchange collisions) and therefore the observations provide information about the magnetospheric plasma.
 
 **Section 7.6 Interactions with moons**
 
@@ -71,10 +73,14 @@ The magnetic field around Titan changes rapidly only very close to its surface s
 
 **Section 38.1.2 Titan's exploration**
 
+Titan has a orbital period around saturn of 15.9 days and rotates around its own axis at the same rate.
+
 ## Fundamental planetary science -- Jack J. Lissauer & Imke de Pater (2019)
 A planet or moon that has an ionosphere will form an induced magnetosphere if charged particles are flowing past it (section 7.2.4). This induced magnetosphere shields the body from the external magnetic field. Titan in Saturn's magnetosphere is an example of this.
 
 The interior of Saturn is fluid metallic hydrogen which is conductive (section 7.4.2). It is generally assumed that Saturn's magnetic field is produced by a process called "magnetohydrodynamic dynamo". Saturn's magnetic dipole moment is nearly exactly in the same direction as its angular velocity (geographic north and south poles coincide with the magnetic north and south poles) (section 8.2.3 and 7.3).
+
+Titan is the largest satellite at Saturn and is an icy moon with a radius of 2575 km and a density of 1880 kg/m^3. The moon was discovered in 1655 by Christiaan Huygens. The atmosphere of titan is very thick, with a surface pressure of 1.44 bar. It consists mostly of nigrogen and small amounts of methane.
 
 ## Interaction of Titan's ionosphere with Saturn's magnetosphere -- Andrew J. Coates (2009)
 This review focuses on particle measurement data from the Cassini flybys of Titan in 2004.
@@ -113,6 +119,11 @@ The results of the paper might be slightly inaccurate since the gyroradius of th
 In this paper the authors present results from the re-analysises of the plasma measurement data from Titan flyby by Voyager 1 in 1980, using new (at the time) models.
 
 ## Titan's exosphere and its interaction with Saturn's magnetosphere -- Iannis Dandouras, et al (2008)
+This paper analyses the data from the magnetosphere imaging instrument (MIMI) and the ion and neutral mass spectrometer instrument on the Cassini spacecraft relating to Titan's exosphere and its interactions with Saturn's magnetosphere.
+
+Because Titan has no significant intrinsic magnetic field to deflect the oncoming plasma flow, the atmosphere interacts directly with it, giving rise to many complex phenomena. For example, energetic ions from Saturn's magnetosphere undergo charge-exchange collisions with slow neutral atoms in Titan's upper atmosphere and produce ENAs. These ENAs are imaged by the MIMI on Cassini from afar, while the ion and neutral mass spectrometer instrument does measurements directly inside the exosphere. The reason why neutral atoms are imaged as a proxy for energetic charged particles is because neutral particles are not affected by electromagnetic fields and follow paths similar to those that photons would take.
+
+Titan is the second largest moon in the solar system and is the only moon with an atmosphere as thick as Earth's. The Saturn Orbit Insertion occurred in July 2004 (and this is when Cassini started orbiting Saturn and making observations of it).
 
 ## Titan’s interaction with the Saturnian magnetosphere -- Leonardo H. Regoli (2016)
 PHD thesis. I (björn) think we use this as a source sparingly if at all in the report and instead go to primary sources when possible. But it is useful for us to learn and get a picture of the subject.
