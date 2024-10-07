@@ -73,14 +73,14 @@ The magnetic field around Titan changes rapidly only very close to its surface s
 
 **Section 38.1.2 Titan's exploration**
 
-Titan has a orbital period around saturn of 15.9 days and rotates around its own axis at the same rate.
+Titan has an orbital period around saturn of 15.9 days and rotates around its own axis at the same rate.
 
 ## Fundamental planetary science -- Jack J. Lissauer & Imke de Pater (2019)
 A planet or moon that has an ionosphere will form an induced magnetosphere if charged particles are flowing past it (section 7.2.4). This induced magnetosphere shields the body from the external magnetic field. Titan in Saturn's magnetosphere is an example of this.
 
 The interior of Saturn is fluid metallic hydrogen which is conductive (section 7.4.2). It is generally assumed that Saturn's magnetic field is produced by a process called "magnetohydrodynamic dynamo". Saturn's magnetic dipole moment is nearly exactly in the same direction as its angular velocity (geographic north and south poles coincide with the magnetic north and south poles) (section 8.2.3 and 7.3).
 
-Titan is the largest satellite at Saturn and is an icy moon with a radius of 2575 km and a density of 1880 kg/m^3. The moon was discovered in 1655 by Christiaan Huygens. The atmosphere of titan is very thick, with a surface pressure of 1.44 bar. It consists mostly of nigrogen and small amounts of methane.
+Titan is the largest satellite at Saturn and is an icy moon with a radius of 2575 km and a density of 1880 kg/m^3. The moon was discovered in 1655 by Christiaan Huygens. The atmosphere of titan is very thick, with a surface pressure of 1.44 bar. It consists mostly of nitrogen and small amounts of methane.
 
 ## Interaction of Titan's ionosphere with Saturn's magnetosphere -- Andrew J. Coates (2009)
 This review focuses on particle measurement data from the Cassini flybys of Titan in 2004.
