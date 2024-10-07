@@ -51,13 +51,13 @@ There are two flows of charged particles across Titan; one is from the solar win
 \begin{equation}
 	2\pi a\left(\frac{1}{\tau_\text{plasma}} - \frac{1}{\tau_\text{titan}}\right)\approx\SI{198}{\kilo\metre\per\second}
 \end{equation}
-relative to Titan. For comparison, the solar wind at Earth's orbit is normally around \SI{440}{\kilo\metre\per\second}, although it can vary greatly \parencite{encyclopedia-solar-wind}. Since Titan orbits in the same direction as saturn spins around its axis, the ram side of this plasma flux is \say{behind} Titan rather than in front. The difference in direction between the flow of particles from the sun and from the magnetospheric plasma changes during the local day on Titan, as illustrated in Figure \ref{wakes}. When Titan is inside Saturn's magnetosphere it is partially shielded from the solar wind, meaning that the corotating plasma is the dominating flow \parencite{ionosphere-magnetosphere-interaction-coates}. This is the situation that has been most studied since most observations by spacecraft have been in such conditions.
+relative to Titan. For comparison, the solar wind at Earth's orbit is normally around \SI{440}{\kilo\metre\per\second}, although it can vary greatly \parencite{encyclopedia-solar-wind}. Since Titan orbits in the same direction as saturn spins around its axis, the ram side of this plasma flux is \say{behind} Titan rather than in front. The difference in direction between the flow of particles from the sun and from the magnetospheric plasma changes during the local day on Titan, as illustrated in Figure \ref{fig:wakes}. When Titan is inside Saturn's magnetosphere it is partially shielded from the solar wind, meaning that the corotating plasma is the dominating flow \parencite{ionosphere-magnetosphere-interaction-coates}. This is the situation that has been most studied since most observations by spacecraft have been in such conditions.
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.7\textwidth]{wakes}
 	\caption{An illustration of Titan's two plasma flow wakes in its orbit around Saturn. Taken from \textcite{ionosphere-magnetosphere-interaction-coates}.}
-	\label{wakes}
+	\label{fig:wakes}
 \end{figure}
 
 The magnetospheres of most planets as well as Jupiter's moon Ganymede arise from an intrinsic magnetic field generated via a process called magnetohydrodynamic dynamo \parencite{encyclopedia-magnetospheres}. Titan has no such magnetic field, but it possesses a conducting ionosphere. When the corotating plasma flows across Titan, currents are induced in its ionosphere that create forces that oppose the oncoming flow. This results in an induced magnetosphere around the body, with a magnetotail \say{in front}. The magnetic field around Titan changes rapidly only very close to its surface. In contrast to the planetary magnetospheres which are subjected to the supersonic solar wind, the induced magnetosphere of Titan has no bow shock since the oncoming plasma flow is slower than both the Alfvén speed and the sound speed of the plasma. 
@@ -72,7 +72,7 @@ The magnetospheres of most planets as well as Jupiter's moon Ganymede arise from
 % Since Titan mostly resides within Saturn's magnetosphere
 
 
-Voyager 1 carried a plasma science instrument which was used to make around 20 measurements of energy spectra for electrons and ions in the wake of Titan during a flyby in 1980. In a paper by \textcite{hartle-1982}, the data from these measurements were analyzed and interpreted to give insights into the structure of Titan's induced magnetosphere and especially its magnetotail. Figure \ref{1980-flyby} illustrates the trajectory of the spacecraft during the flyby, projected onto Titan's orbital plane with the X-axis pointing in the corotation direction and and Y-axis pointing towards Saturn.
+Voyager 1 carried a plasma science instrument which was used to make around 20 measurements of energy spectra for electrons and ions in the wake of Titan during a flyby in 1980. In a paper by \textcite{hartle-1982}, the data from these measurements were analyzed and interpreted to give insights into the structure of Titan's induced magnetosphere and especially its magnetotail. Figure \ref{fig:1980-flyby} illustrates the trajectory of the spacecraft during the flyby, projected onto Titan's orbital plane with the X-axis pointing in the corotation direction and and Y-axis pointing towards Saturn. Some results from the electron measurements are presented in figures \ref{fig:wake-spectra} and \ref{fig:wake-temp-density}. The first figure shows the velocity distributions across the wake of Titan, and a clear \say{bite-out} can be seen where there are almost no electrons with speeds higher than about \SI{16}{\mega\metre\per\second} (\SI{730}{\electronvolt}). 
 
 The Voyager 1 spacecraft also had a magnetometer which recorded measurements of the magnetic field along its trajectory during the same flyby in 1980. \textcite{ness-1982}
 
@@ -80,15 +80,27 @@ The Voyager 1 spacecraft also had a magnetometer which recorded measurements of 
 	\centering
 	\includegraphics[width=0.7\textwidth]{1980-flyby}
 	\caption{An illustration of the flyby of Titan by Voyager 1 on the 12th of November 1980. The trajectory is projected onto Titan's orbital plane. The units of the coordinates are \si{\mega\metre} and the numbers along the trajectory are the spacecraft-local time points. Adapted from \textcite{hartle-1982}.}
-	\label{1980-flyby}
+	\label{fig:1980-flyby}
 \end{figure}
 
+
 \begin{figure}[htbp]
-	\centering
-	\includegraphics[width=0.7\textwidth]{wake-spectra}
-	\caption{Electron energy spectra in the wake of Titan recorded by the plasma science experiment on Voyager 1. Taken from \textcite{hartle-1982}.}
-	\label{wake-spectra}
+	\begin{subfigure}{\textwidth}
+		\centering
+		\includegraphics[width=0.8\textwidth]{wake-spectra}
+		\caption{Electron speed spectra.}
+		\label{fig:wake-spectra}	
+	\end{subfigure}
+	\begin{subfigure}{\textwidth}
+		\centering
+		\includegraphics[width=0.7\textwidth]{wake-temp-density}
+		\caption{Electron temperature and density measurements.}
+		\label{fig:wake-temp-density}
+	\end{subfigure}
+	\caption{Plots from \textcite{hartle-1982} of electron enery spectra, temperatures, and number densities in Titan's wake recorded by the plasma science experiment on Voyager 1.}
 \end{figure}
+
+
 
 A 2009 study by \textcite{Rymer-class} classifies Titan's plasm environment into four different categories based on electron thermal data from 54 encounters on titan by Cassini as follows. 
 
@@ -96,7 +108,7 @@ A 2009 study by \textcite{Rymer-class} classifies Titan's plasm environment into
 	\item The \textbf{plasmasheet} contains high energy electrons whose peak enegy is on the oder of 100s eV. The electron density is also high in this region with fluxes at $10^6cm^{-2}s^{-1}sr^{-1}$. This was the most common environment, with 19 encounters.
 	\item The \textbf{lobe-like} region also has high energy electrons, with peak energies similar to or higher than that of the plasmas sheet. The electron density is however smaller with fluxes an order of magnitude less. 8 encounters with this environment was made.
 	\item The \textbf{magnetosheath} is encountered outside of the magnetopause, and thus consists of plasma from the solar wind. In this region electrons are of lower energy, but higher density than the previous two classes. 2 encounters with this environment was made.
-	\item The \textbf{Bi-modal} ergion is highly variable, containg two seperate electron populations, hence bi-modal. One is similar in energy to the plasma sheet or Lobe-like category. The other population is less energetic but more dense and consists of so called local pick-up population that comes from a neutral cloud, where produced electrons are quickly picked up by the co-rotation with Saturn gaining energy on the order of tenths of eV. The electron energy seen is higher though, which is thought to be explained by these electrons originating from photoionization of larger ions where the energy released is on the order of 10eV. These heavy ions are believed to be water groups, which originate in the inner magnetosphere of Saturn, from the moon Enceladus and migrates outwards to Titan. 5 encounters of this environment was made.
+	\item The \textbf{Bi-modal} region is highly variable, containg two seperate electron populations, hence bi-modal. One is similar in energy to the plasma sheet or Lobe-like category. The other population is less energetic but more dense and consists of so called local pick-up population that comes from a neutral cloud, where produced electrons are quickly picked up by the co-rotation with Saturn gaining energy on the order of tenths of eV. The electron energy seen is higher though, which is thought to be explained by these electrons originating from photoionization of larger ions where the energy released is on the order of 10eV. These heavy ions are believed to be water groups, which originate in the inner magnetosphere of Saturn, from the moon Enceladus and migrates outwards to Titan. 5 encounters of this environment was made.
 
 \end{enumerate}
 
@@ -115,13 +127,13 @@ An additional classification of the plasma environment, dubbed dense plasma regi
 
 \subsubsection{Charge-exchange collisions}
 \parencite{titan-exosphere-interaction}
-Titan not having an intrinsic magnetic field makes it directly susceptible to the oncoming plasma flow, these interactions was captured using the magnetosphere imaging instrument (MIMI) and the ion and neutral mass spectrometer (INMS) onboard the Cassini spacecraft. The instruments were able to detect that energetic ions from Saturn's magnetosphere undergo charge-change collisions with slow neutral atoms in Titan's upper atmosphere, producing ENAs. The reaction describing a charge-exchange collision is \ce{X+ + Y -> X_{ENA} + Y+}, where \ce{X+} is the energetic ion, \ce{Y} is the colliding cold neutral atom, \ce{X_{ENA}} is the resulting energetic neutral atom, and \ce{Y+} is the ionized particle. Charge-exchange collisions is one of the reasons for Titan's exosphere being in thermal inequilibrium, with some other reasons being sputtering and photodissociation. Data from Cassini flybys indicated that the highest amount of particle collisions occured in the lower atmosphere causing most of the produced ENAs to be absorbed, resulting in a darker region in the ENA image of Titan's exosphere as can be seen in figure \ref{fig:ENA-image}.
+Titan not having an intrinsic magnetic field makes it directly susceptible to the oncoming plasma flow, these interactions were captured using the magnetosphere imaging instrument (MIMI) and the ion and neutral mass spectrometer (INMS) onboard the Cassini spacecraft. The instruments were able to detect that energetic ions from Saturn's magnetosphere undergo charge-change collisions with slow neutral atoms in Titan's upper atmosphere, producing energetic neutral atoms (ENAs). The reaction describing a charge-exchange collision is \ce{X+ + Y -> X_{ENA} + Y+}, where \ce{X+} is the energetic ion, \ce{Y} is the colliding cold neutral atom, \ce{X_{ENA}} is the resulting energetic neutral atom, and \ce{Y+} is the ionized particle. Charge-exchange collisions is one of the reasons for Titan's exosphere being in thermal inequilibrium, with some other reasons being sputtering and photodissociation. Data from Cassini flybys indicated that the highest amount of particle collisions occured in the lower atmosphere causing most of the produced ENAs to be absorbed, resulting in a darker region in the ENA image of Titan's exosphere as can be seen in figure \ref{fig:ENA-image}.
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.7\textwidth]{ENA-image}
 	\caption{Image of ENAs in Titan's exosphere taken by the MIMI during a Cassini flyby. Taken from \textcite{titan-exosphere-interaction}.}
-	\label{ENA-image}
+	\label{fig:ENA-image}
 \end{figure}
 
 %All magnetospheres in the solar system contain populations of highly energetic particles which deviate from the thermal equilibrium Maxwell-Boltzmann distribution function \parencite{encyclopedia-magnetospheres}. The observed fluxes of such particles are too high to be solely accounted for by the solar wind. In the cases of the gas giants, some particles are accelerated to high energies by planetary rotation. These high-energy particles also create strong currents around the equator which in turn modify the magnetic field. The significant populations of energetic particles in the gas giants' magnetospheres result in an expanded magnetopause due to the increased pressure. Energetic particles at the gas giants can be lost via absorption by their rings and satellites.
