@@ -170,6 +170,8 @@ This study presents a similar conclution as smith (2014), about the precence of 
 ## Alfvén Wing-Like Structures in Titan's Magnetotail During T122-T126 Flybys -- Niklas J. T. Edberg and Jan-Erik Wahlund and Erik Vigren (2024-06-09)
 This paper uses data form the T122-T126 Cassini flybys of Titan to analyze its magnetotail structure. These specific flybys were chosen because they were very similar in their spatial coverage as well as their plasma environment and could therefore provide accurate information about the geometry of the magnetotail. The data from the flybys were transformed to the same reference frame aligned with Saturn's steady-state magnetic field in order to isolate the disturbances due to Titan and allow for direct comparison. The magnetotail was found to display variations over time and space. In two of the flybys (T123 and T124) an Alfvén wing-like structure was observed in the magnetic field around Titan. A bipoloar magnetotail with an embedded neutral current sheet (??) in the magnetotail was also observed in the T122 flyby, as has been observed earlier by the Voyager 1 flybys (Norman F. Ness et al, 1982). 
 
+
+
 ## The induced magnetosphere of Titan -- Norman F. Ness et al (1982)
 
 ## Effects of Saturn's magnetospheric dynamics on Titan's ionosphere -- N. J. T. Edberg et al (2015)

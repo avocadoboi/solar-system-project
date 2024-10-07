@@ -20,14 +20,12 @@
 \newpage
 
 \section{Introduction}
-% A major objective of the Voyager 1 project was to study Titan and its interactions with the surrounding magnetosphere (source, it is mentioned in \parencite{hartle-1982} but we will probably have some other source for describing the voyager spacecraft). 
-
-%The Cassini spacecraft which was in orbit around Saturn for 13 years between 2004 and 2017 \parencite{cassini-2019} (it ended its mission by crashing into Saturn's atmosphere in 2017, the year after this edition of the book was published) has provided much more detailed observations of the dynamics of the Kronian magnetosphere than those from the Pioneer 10 and Voyager 1 and 2 spacecraft which only briefly passed through it \parencite{encyclopedia-magnetospheres}. 
 
 % Cassini-Huygens was launched in 
 % Pioneer 11, Voyager 2, Voyager 1, Cassini-Huygens
 % Describe the different regions of the magnetosphere
 % Sources and sinks of plasma
+% Introduce saturn
 A magnetosphere is a region around a body in space which is partially shielded from external plasma flow by its own magnetic field exerting pressure against it \parencite{encyclopedia-magnetospheres}. Some bodies with no intrinsic magnetic field can form a similar structure, see Section \ref{s:induced-magnetosphere}. In the cases of the planets, the plasma flow is the solar wind. Saturn has a magnetic field 
 
 %Due to friction in Saturn's atmosphere and ionosphere, the plasma rotates with the same period as Saturn spins about its axis \parencite{solar-system-magnetospheres}
@@ -39,13 +37,19 @@ A magnetosphere is a region around a body in space which is partially shielded f
 
 Titan was discovered in 1655 by Christiaan Huygens, it is Saturn's largest moon and the second largest moon in the solar system \parencite{fundamental-planetary-science}. It is an icy moon with a radius of \SI{2575}{\kilo\metre}, a density of \SI{1880}{\kilogram\per\metre^3} and a surface pressure of 1.44 bar. Unlike most moons, Titan has a very dense atmosphere, being even thicker than Earth's and consisting mainly of nitrogen and a smaller amount of methane. Titan has no intrinsic magnetic field but having an orbit at 20 Saturn radii places it near the boundary of the varying Saturnian magnetic field on the sun-facing side. This combination of a dense atmosphere and the lack of an intrinsic megnetic field and its interaction with the surrounding plasma is therefore unlike that of any other moon in the solar system. 
 
+Four spacecraft have visited Saturn so far; Pioneer 11, Voyager 2, Voyager 1, and Cassini-Huygens (source!). 
+
+A major objective of the Voyager 1 project was to study Titan and its interactions with the surrounding magnetosphere (source, it is mentioned in \parencite{hartle-1982} but we will probably have some other source for describing the voyager spacecraft). 
+
+The Cassini spacecraft which was in orbit around Saturn for 13 years between 2004 and 2017 \parencite{cassini-2019} (it ended its mission by crashing into Saturn's atmosphere in 2017, the year after this edition of the book was published) has provided much more detailed observations of the dynamics of the Kronian magnetosphere than those from the Pioneer 10 and Voyager 1 and 2 spacecraft which only briefly passed through it \parencite{encyclopedia-magnetospheres}. 
+
 
 \section{Interactions between Titan and Saturn's magnetosphere}
 
 \subsection{Titan's induced magnetosphere}\label{s:induced-magnetosphere}
-There are two flows of charged particles across Titan; one is from the solar wind and one is from Saturn's magnetospheric plasma \parencite{ionosphere-magnetosphere-interaction-coates}. The latter corotates with Saturn's rotation period of approximately \SI{10.5}{\hour}, while Titan's rotation period around Saturn is 15.9 days \parencite{fundamental-planetary-science}. Neglecting the eccentricity of Titan ($e\approx0.03$) and noting that Titan orbits with a semimajor axis of $a=\SI{1222}{\mega\metre}$, this implies that the magnetospheric plasma flows at a speed of approximately
+There are two flows of charged particles across Titan; one is from the solar wind and one is from Saturn's magnetospheric plasma \parencite{ionosphere-magnetosphere-interaction-coates}. The latter corotates with Saturn's rotation period of approximately $\tau_\text{plasma}=\SI{10.5}{\hour}$, while Titan's rotation period around Saturn is $\tau_\text{titan}=\SI{15.9}{\day}$ \parencite{fundamental-planetary-science}. Neglecting the eccentricity of Titan ($e\approx0.03$) and noting that Titan orbits with a semimajor axis of $a=\SI{1222}{\mega\metre}$, this implies that the magnetospheric plasma flows at a speed of approximately
 \begin{equation}
-	2\pi a\left(\frac{1}{T_\text{plasma}} - \frac{1}{T_\text{titan}}\right)\approx\SI{198}{\kilo\metre\per\second}
+	2\pi a\left(\frac{1}{\tau_\text{plasma}} - \frac{1}{\tau_\text{titan}}\right)\approx\SI{198}{\kilo\metre\per\second}
 \end{equation}
 relative to Titan. For comparison, the solar wind at Earth's orbit is normally around \SI{440}{\kilo\metre\per\second}, although it can vary greatly \parencite{encyclopedia-solar-wind}. Since Titan orbits in the same direction as saturn spins around its axis, the ram side of this plasma flux is \say{behind} Titan rather than in front. The difference in direction between the flow of particles from the sun and from the magnetospheric plasma changes during the local day on Titan, as illustrated in Figure \ref{wakes}. When Titan is inside Saturn's magnetosphere it is partially shielded from the solar wind, meaning that the corotating plasma is the dominating flow \parencite{ionosphere-magnetosphere-interaction-coates}. This is the situation that has been most studied since most observations by spacecraft have been in such conditions.
 
