@@ -174,6 +174,11 @@ This paper uses data form the T122-T126 Cassini flybys of Titan to analyze its m
 Since Titan lacks an internal magnetosphere, Alvenic wing-like structures are created when Titan is exposed to sub-magnetosonic flow. The structures connects the field lines of Saturn's magnetosphere with Titan's ionosphere. 
 
 
+## A single deformed bow shock for Titan-Saturn system -- N. Omidi et al (2017)
+Titan usually experiences subsonic and subalvenic flow of Saturn's magnetospheric plasma. However if the solar wind pressure is high enough, Titan will epxerince the supersonic flow of the solar wind leading to the creation of a Titanian bowshock. 
+
+
+
 ## The induced magnetosphere of Titan -- Norman F. Ness et al (1982)
 
 ## Effects of Saturn's magnetospheric dynamics on Titan's ionosphere -- N. J. T. Edberg et al (2015)

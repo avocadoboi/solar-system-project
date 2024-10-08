@@ -63,9 +63,7 @@ The magnetospheres of most planets as well as Jupiter's moon Ganymede arise from
 % Since Titan mostly resides within Saturn's magnetosphere
 
 
-Voyager 1 carried a plasma science instrument which was used to make around 20 measurements of energy spectra for electrons and ions in the wake of Titan during a flyby in 1980. In a paper by \textcite{hartle-1982}, the data from these measurements were analyzed and interpreted to give insights into the structure of Titan's magnetotail. Figure \ref{fig:1980-flyby} illustrates the trajectory of the spacecraft during the flyby, projected onto Titan's orbital plane with the X-axis pointing in the corotation direction and and Y-axis pointing towards Saturn. Some results from the electron measurements are presented in figures \ref{fig:wake-spectra} and \ref{fig:wake-temp-density}. The first figure shows the velocity distributions across the wake of Titan, and a clear \say{bite-out} can be seen where there are almost no electrons with speeds higher than about \SI{16}{\mega\metre\per\second} (\SI{730}{\electronvolt}). The second figure also shows that this wake region is more dense than the surroundings.
-
-The Voyager 1 spacecraft also had a magnetometer which recorded measurements of the magnetic field along its trajectory during the same flyby in 1980. \textcite{ness-1982}
+Voyager 1 carried a plasma science instrument which was used to make around 20 measurements of energy spectra for electrons and ions in the wake of Titan during a flyby in 1980. In a paper by \textcite{hartle-1982}, the data from these measurements were analyzed and interpreted to give insights into the structure of Titan's magnetotail. Figure \ref{fig:1980-flyby} illustrates the trajectory of the spacecraft during the flyby, projected onto Titan's orbital plane with the X-axis pointing in the corotation direction and and Y-axis pointing towards Saturn. The flyby took place at 13:30 local solar time (as defined in Figure \ref{fig:wakes}) \parencite{ness-1982}. Some results from the electron measurements are presented in figures \ref{fig:wake-spectra} and \ref{fig:wake-temp-density}. The first figure shows the velocity distributions across the wake of Titan, and a clear \say{bite-out} can be seen where there are almost no electrons with speeds higher than about \SI{16}{\mega\metre\per\second} (\SI{730}{\electronvolt}). The second figure also shows that this wake region is more dense than the surroundings. This is likely caused by the accum
 
 \begin{figure}[htbp]
 	\centering
@@ -88,12 +86,32 @@ The Voyager 1 spacecraft also had a magnetometer which recorded measurements of 
 		\caption{Electron temperature and density measurements.}
 		\label{fig:wake-temp-density}
 	\end{subfigure}
-	\caption{Plots from \textcite{hartle-1982} of electron enery spectra, temperatures, and number densities in Titan's wake recorded by the plasma science experiment on Voyager 1.}
+	\caption{Plots from \textcite{hartle-1982} of electron energy spectra, temperatures, and number densities in Titan's wake recorded by the plasma science experiment on Voyager 1.}
+\end{figure}
+
+The Voyager 1 spacecraft also had a magnetometer which recorded measurements of the magnetic field along its trajectory during the same flyby in 1980. These were analyzed in \textcite{ness-1982}. The magnetotail was found to be perturbed by about \SI{20}{\degree} from the coration direction towards Saturn, likely caused by the difference in irradiation from the Sun between the night and day sides of Titan's ionosphere. Figure \ref{fig:wake-field} illustrates possible magnetic field lines based on this data.
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=0.7\textwidth]{wake-field}
+	\caption{Magnetic field lines in the wake of Titan as inferred by \textcite{ness-1982} based on magnetometer data from Voyager 1.}
+	\label{fig:wake-field}
 \end{figure}
 
 
+During cassinis T9 flyby, the magnetotail was analysed at mid-ranges, 5-6 titan radii downstrteam in terms of magnetometer data and electron enegy and count by \textcite{Magnetotail-T9}.                                     
 
-A 2009 study by \textcite{Rymer-class} classifies Titan's plasm environment into four different categories based on electron thermal data from 54 encounters on titan by Cassini as follows. 
+
+In a paper by \textcite{alfven-wing-structure}, the data from the T122-T126 Cassini flybys of Titan was used to analyze its magnetotail structure. The magnetotail was found to display variations over time and space. In two of the flybys (T123 and T124) an Alfvén wing-like structure was observed in the magnetic field around Titan. Alvenic wing-like structures are created when Titan is exposed to sub-magnetosonic flow from Saturn's magnetospheric plasma and is a direct consequence of Titan not having an internal magnetosphere. The wing-like structures connects the field lines of Saturn's magnetosphere with Titan's ionosphere. A bipoloar magnetotail with an embedded neutral current sheet in the magnetotail was also observed in the T122 flyby, as has been observed earlier by the Voyager 1 flybys \parencite{ness-1982}.
+
+% \begin{figure}[htbp]
+% 	\centering
+% 	\includegraphics[width=0.7\textwidth]{alvenicwings}
+% 	\caption{}
+% 	\label{fig:alvenicwings}
+% \end{figure}
+
+A 2009 study by \textcite{Rymer-class} classifies Titan's plasmaa environment into four different categories based on electron thermal data from 54 encounters on Titan by Cassini as follows. 
 
 \begin{enumerate}
 	\item The \textbf{plasmasheet} contains high energy electrons whose peak enegy is on the oder of 100s eV. The electron density is also high in this region with fluxes at $10^6cm^{-2}s^{-1}sr^{-1}$. This was the most common environment, with 19 encounters.
@@ -116,7 +134,7 @@ An additional classification of the plasma environment, dubbed dense plasma regi
 
 % Titan is a weaker plasma source than the inner moon Enceladus which emits large amounts of vapor that is quickly ionized, forming a torus of plasma around Saturn. 
 
-Titan not having an intrinsic magnetic field \parencite{titan-exosphere-interaction} makes it directly susceptible to the oncoming plasma flow, these interactions were captured using the magnetosphere imaging instrument (MIMI) and the ion and neutral mass spectrometer (INMS) onboard the Cassini spacecraft. The instruments were able to detect that energetic ions from Saturn's magnetosphere undergo charge-change collisions with slow neutral atoms in Titan's upper atmosphere, producing energetic neutral atoms (ENAs). The reaction describing a charge-exchange collision is \ce{X+ + Y -> X_{ENA} + Y+}, where \ce{X+} is the energetic ion, \ce{Y} is the colliding cold neutral atom, \ce{X_{ENA}} is the resulting energetic neutral atom, and \ce{Y+} is the ionized particle. Charge-exchange collisions is one of the reasons for Titan's exosphere being in thermal inequilibrium, with some other reasons being sputtering and photodissociation. Data from Cassini flybys indicated that the highest amount of particle collisions occured in the lower atmosphere causing most of the produced ENAs to be absorbed, resulting in a darker region in the ENA image of Titan's exosphere as can be seen in figure \ref{fig:ENA-image}.
+Titan not having an intrinsic magnetic field \parencite{titan-exosphere-interaction} makes it directly susceptible to the oncoming plasma flow, these interactions were captured using the magnetosphere imaging instrument (MIMI) and the ion and neutral mass spectrometer (INMS) onboard the Cassini spacecraft. The instruments were able to detect that energetic ions from Saturn's magnetosphere undergo charge-exchange collisions with slow neutral atoms in Titan's upper atmosphere, producing energetic neutral atoms (ENAs). The reaction describing a charge-exchange collision is \ce{X+ + Y -> X_{ENA} + Y+}, where \ce{X+} is the energetic ion, \ce{Y} is the colliding cold neutral atom, \ce{X_{ENA}} is the resulting energetic neutral atom, and \ce{Y+} is the ionized particle. Charge-exchange collisions is one of the reasons for Titan's exosphere deviating from thermal equilibrium, with some other reasons being sputtering and photodissociation. Data from Cassini flybys indicated that the highest amount of particle collisions occured in the lower atmosphere causing most of the produced ENAs to be absorbed, resulting in a darker region in the ENA image of Titan's exosphere as can be seen in figure \ref{fig:ENA-image}.
 
 \begin{figure}[htbp]
 	\centering
@@ -124,16 +142,6 @@ Titan not having an intrinsic magnetic field \parencite{titan-exosphere-interact
 	\caption{Image of ENAs in Titan's exosphere taken by the MIMI during a Cassini flyby. Taken from \textcite{titan-exosphere-interaction}.}
 	\label{fig:ENA-image}
 \end{figure}
-
-In a paper by \textcite{alfven-wing-structure}, the data from the T122-T126 Cassini flybys of Titan was used to analyze its magnetotail structure. The magnetotail was found to display variations over time and space. In two of the flybys (T123 and T124) an Alfvén wing-like structure was observed in the magnetic field around Titan. Alvenic wing-like structures are created when Titan is exposed to sub-magnetosonic flow from Saturn's magnetospheric plasma and is a direct consequence of Titan not having an internal magnetosphere. The wing-like structures connects the field lines of Saturn's magnetosphere with Titan's ionosphere. A bipoloar magnetotail with an embedded neutral current sheet in the magnetotail was also observed in the T122 flyby, as has been observed earlier by the Voyager 1 flybys \parencite{ness-1982}.
-
-\begin{figure}[htbp]
-	\centering
-	\includegraphics[width=0.7\textwidth]{alvenicwings}
-	\caption{}
-	\label{fig:alvenicwings}
-\end{figure}
-
 
 %All magnetospheres in the solar system contain populations of highly energetic particles which deviate from the thermal equilibrium Maxwell-Boltzmann distribution function \parencite{encyclopedia-magnetospheres}. The observed fluxes of such particles are too high to be solely accounted for by the solar wind. In the cases of the gas giants, some particles are accelerated to high energies by planetary rotation. These high-energy particles also create strong currents around the equator which in turn modify the magnetic field. The significant populations of energetic particles in the gas giants' magnetospheres result in an expanded magnetopause due to the increased pressure. Energetic particles at the gas giants can be lost via absorption by their rings and satellites.
 
